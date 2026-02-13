@@ -6,3 +6,4 @@ chipwhisperer
 holoviews
 jupyter_bokeh
 scipy
+ipykernel
